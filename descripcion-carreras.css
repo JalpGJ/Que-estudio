@@ -18,6 +18,12 @@
   width: inherit;
   margin: 0;
 }
+.test3d {
+  display: flex;
+  width: 100%;
+  justify-content: center;
+  /* align-items: center; */
+}
 .main__row--nav {
   width: inherit;
   margin: 0;
@@ -702,6 +708,20 @@ iframe {
   }
   .about__project--salario {
     justify-content: start;
+  }
+  .test3d {
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    /* align-items: center; */
+  }
+  .project--text__text {
+    width: 100%;
+    /* display: flex;
+    flex-direction: column;
+    text-align: start;
+    justify-content: center;
+    align-items: center; */
   }
 
   /* // */

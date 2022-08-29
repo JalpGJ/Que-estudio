@@ -814,6 +814,18 @@
     background-repeat: no-repeat;
     border-radius: 32px 32px 0 0;
   }
+  /* .test3d {
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+  } */
+  /* .project--text__text {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  } */
   .careers__body--title {
     color: black;
     font-weight: bold;
